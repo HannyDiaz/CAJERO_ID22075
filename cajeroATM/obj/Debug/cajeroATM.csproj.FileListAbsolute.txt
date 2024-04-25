@@ -1,0 +1,10 @@
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\bin\Debug\cajeroATM.exe.config
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\bin\Debug\cajeroATM.exe
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\bin\Debug\cajeroATM.pdb
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\obj\Debug\cajeroATM.csproj.AssemblyReference.cache
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\obj\Debug\cajeroATM.Form1.resources
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\obj\Debug\cajeroATM.Properties.Resources.resources
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\obj\Debug\cajeroATM.csproj.GenerateResource.cache
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\obj\Debug\cajeroATM.csproj.CoreCompileInputs.cache
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\obj\Debug\cajeroATM.exe
+C:\Users\LICENCIATURAS\Downloads\cajeroATM\obj\Debug\cajeroATM.pdb
